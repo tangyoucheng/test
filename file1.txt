@@ -2,8 +2,5 @@ test1
 test11
 test2
 test22
-<<<<<<< HEAD
-test1111111
-=======
 test222
->>>>>>> refs/heads/testbr2
+test1111111
